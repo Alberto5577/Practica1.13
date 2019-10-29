@@ -1,0 +1,26 @@
+h1.centrado{
+   text-align: center;
+   color: brown;
+}
+html{
+    background-color: wheat;
+}
+p.derecha{
+    float: right;
+
+}
+img.derecha{
+    float: right;
+}
+p.carta{
+    padding-left: 43px;
+}
+img.centrado{
+    
+    display: block;
+    margin: auto;
+}
+p.cafe{
+    float: center;
+    text-align: center;
+}
