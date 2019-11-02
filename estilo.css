@@ -21,7 +21,10 @@ p.cafe{
     text-align: center;
 }
 p.contacto{
-    display: block;
-    text-align: center;
+    vertical-align: text-;
     float: right;
+    padding-bottom: 43px;
+}
+p.red{
+    color: brown;
 }
